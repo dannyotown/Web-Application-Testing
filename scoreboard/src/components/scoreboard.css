@@ -1,0 +1,15 @@
+.displayScore{
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+
+.flexColumn{
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+button{
+    margin: 0 auto;
+}
